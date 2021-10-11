@@ -1,0 +1,22 @@
+{
+    "blogs":[
+        {
+            "title":"first blog",
+            "body":"why do we use id ?",
+            "author":"taro",
+            "id":1
+        },
+        {
+            "title":"second blog",
+            "body":"why do we use id ?",
+            "author":"ziro",
+            "id":2
+        },
+        {
+            "title":"third blog",
+            "body":"why do we use id ?",
+            "author":"saburo",
+            "id":3
+        }
+    ]
+}
